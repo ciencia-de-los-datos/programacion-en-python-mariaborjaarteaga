@@ -19,7 +19,7 @@ def pregunta_01():
 
     Rta/
     214
-
+ 
     """
     with open("data.csv","r") as file:
         data=file.readlines()
